@@ -1,0 +1,9254 @@
+/* Main Page */
+
+position: relative;
+width: 1920px;
+height: 18111px;
+
+background: #E8E6E6;
+
+
+/* mask_magic_remix 1 */
+
+position: absolute;
+width: 1920px;
+height: 1200px;
+left: 0px;
+top: 16044px;
+
+background: linear-gradient(180deg, #E8E6E6 0%, rgba(255, 255, 255, 0) 49.52%, #E8E6E6 100%), url(mask_magic_remix.png);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+visibility: hidden;
+width: 1920px;
+height: 1659px;
+left: 0px;
+top: 5903px;
+
+background: linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(AdobeStock_734736118.jpg);
+
+
+/* Screenshot 2025-12-13 at 12.57.57 AM 1 */
+
+position: absolute;
+visibility: hidden;
+width: 1921px;
+height: 1248px;
+left: 40px;
+top: 16239px;
+
+mix-blend-mode: luminosity;
+
+
+/* image 462 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 1080px;
+
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 1805px;
+top: 3414px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 1815px;
+top: 7003px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 1811px;
+top: 10942px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* Line 124 */
+
+position: absolute;
+visibility: hidden;
+width: 1084px;
+height: 0px;
+left: 770px;
+top: 9861.76px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1881px;
+height: 5px;
+left: 39px;
+top: 1080px;
+
+background: linear-gradient(90deg, rgba(75, 207, 214, 0.2) 0%, #4BCFD6 100%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ChatGPT Image Dec 13, 2025, 01_48_08 AM 1 */
+
+position: absolute;
+width: 1923px;
+height: 1282px;
+left: 0px;
+top: 10715px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_48_08 AM.png);
+mix-blend-mode: darken;
+
+
+/* Footer */
+
+position: absolute;
+width: 1994px;
+height: 1562px;
+left: -74px;
+top: 17015px;
+
+
+
+/* Line 123 */
+
+position: absolute;
+width: 1804.01px;
+height: 0px;
+left: 55px;
+top: 17378px;
+
+border: 1px solid #000000;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 592px;
+height: 569px;
+left: 40px;
+top: 17405px;
+
+opacity: 0.5;
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 45px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+display: none;
+width: 252px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #393838;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ChatGPT Image Dec 13, 2025, 01_07_57 AM 1 */
+
+position: absolute;
+width: 1933px;
+height: 1288px;
+left: -13px;
+top: 17289px;
+
+mix-blend-mode: darken;
+
+
+/* ChatGPT Image Dec 13, 2025, 01_01_03 AM 1 */
+
+position: absolute;
+width: 1764px;
+height: 1176px;
+left: -74px;
+top: 17015px;
+
+mix-blend-mode: plus-darker;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 592px;
+height: 569px;
+left: 640px;
+top: 17405px;
+
+opacity: 0.5;
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 45px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+display: none;
+width: 252px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #393838;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 591px;
+height: 569px;
+left: 1293px;
+top: 17405px;
+
+filter: drop-shadow(0px 4px 4px rgba(34, 151, 250, 0.3));
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+box-shadow: 6px 4px 14px 4px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), #FFFFFF;
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 45px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+display: none;
+width: 252px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #393838;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 535px;
+height: 183px;
+left: 1320px;
+top: 17622px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 26px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 26px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 495px;
+height: 171px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 191px;
+height: 33px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height */
+display: flex;
+align-items: center;
+font-feature-settings: 'ss16' on;
+
+color: #ABABAB;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Singapore */
+
+position: absolute;
+width: 536px;
+height: 299px;
+left: 668px;
+top: 17635px;
+
+background: url(hf_20260125_103645_b68ab8d7-57ce-46d3-95ff-b097a21162a4.png);
+border-radius: 40px;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 535px;
+height: 42px;
+left: 1320px;
+top: 17491px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 26px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 26px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 495px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 51px;
+height: 20px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+font-feature-settings: 'ss16' on;
+
+color: #9A9A9A;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 535px;
+height: 42px;
+left: 1320px;
+top: 17558px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 26px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 26px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 53px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 53px;
+height: 20px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+font-feature-settings: 'ss16' on;
+
+color: #9A9A9A;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SEND US A MESSAGE: */
+
+position: absolute;
+width: 363px;
+height: 48px;
+left: 1323px;
+top: 17427px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* identical to box height, or 48px */
+
+color: #000000;
+
+
+
+/* EUROPE: Josefstädter Straße 75-77 Vienna 1080, AUSTRIA VAT No. ATU66524567 office@asap-studio.com */
+
+position: absolute;
+width: 555px;
+height: 231px;
+left: 66px;
+top: 17430px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+color: #000000;
+
+
+
+/* APAC: 68 Circular Road #02-01 Singapore 049422 Reg# 201722836W production@asap-studio.com */
+
+position: absolute;
+width: 556px;
+height: 243px;
+left: 670px;
+top: 17427px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+color: #000000;
+
+
+
+/* © Copyright Asap Studio 2025. All rights reserved */
+
+position: absolute;
+width: 790px;
+height: 48px;
+left: 528px;
+top: 18042px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 132%;
+/* or 24px */
+text-align: center;
+
+color: #161616;
+
+
+
+/* HEADQUARTERS */
+
+position: absolute;
+width: 708px;
+height: 69px;
+left: 55px;
+top: 17286px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+
+color: #000000;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 535px;
+height: 80px;
+left: 1320px;
+top: 17858px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, #82DAFF 0%, rgba(69, 200, 255, 0.7) 100%);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Send */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 74px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 74px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* AUSTRIA */
+
+position: absolute;
+width: 533px;
+height: 297px;
+left: 69px;
+top: 17635px;
+
+background: url(hf_20260125_103816_4b7ce814-eee4-4e20-876e-399d7cf9989f.png);
+border-radius: 40px;
+
+
+/* View Languages */
+
+position: absolute;
+width: 1842px;
+height: 658px;
+left: 49px;
+top: 15344px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Group 61467 */
+
+position: absolute;
+width: 525px;
+height: 69px;
+left: 49px;
+top: 15344px;
+
+
+
+/* LANGUAGES */
+
+position: absolute;
+width: 525px;
+height: 69px;
+left: 49px;
+top: 15344px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Group 61473 */
+
+position: absolute;
+width: 1839px;
+height: 470px;
+left: 52px;
+top: 15532px;
+
+
+
+/* Group 61467 */
+
+position: absolute;
+width: 1839px;
+height: 470px;
+left: 52px;
+top: 15532px;
+
+
+
+/* Afrikaans Albanian Amharic Arabic Armenian Azeri Bengali Bosnian Bulgarian Burmese */
+
+position: absolute;
+width: 194px;
+height: 470px;
+left: 52px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Cebuano Chinese Croatian Czech Danish Dari Dutch English AU English CA English UK */
+
+position: absolute;
+width: 194px;
+height: 470px;
+left: 246px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* English US English AFR  Estonian Farsi Finnish Flemish French EU French CA French AFR Georgian */
+
+position: absolute;
+width: 194px;
+height: 440px;
+left: 451px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* German DE German AT German CH  Greek Gujarati Hebrew Hindi Hungarian Icelandic Indonesian */
+
+position: absolute;
+width: 194px;
+height: 440px;
+left: 658px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Irish Italian Japanese Kazakh Khmer Korean Kurdish Kyrgyz Lao Latvian */
+
+position: absolute;
+width: 194px;
+height: 440px;
+left: 863px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Lithuanian Macedonian Malay Malagasy Marathi Mauritian Creole Mongolian Nahuatl Nepali Norwegian */
+
+position: absolute;
+width: 194px;
+height: 440px;
+left: 1067px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Papiamento Pashto Polish Portuguese EU Portuguese BR Punjabi Romanian Russian Serbian Sinhalese */
+
+position: absolute;
+width: 194px;
+height: 449px;
+left: 1271px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Slovakian Slovenian Somali Spanish EU Spanish LATAM Swahili Swedish Tagalog Tajik Tamil */
+
+position: absolute;
+width: 195px;
+height: 426px;
+left: 1492px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Tatar Thai Tigrinya Turkish Turkmen Tzotzil Ukrainian Urdu Uzbek Vietnamese  */
+
+position: absolute;
+width: 194px;
+height: 440px;
+left: 1697px;
+top: 15532px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 200%;
+/* or 44px */
+
+color: #000000;
+
+
+
+/* Current Projects */
+
+position: absolute;
+width: 1652px;
+height: 7541px;
+left: 69px;
+top: 3497px;
+
+
+
+/* Group 61472 */
+
+position: absolute;
+width: 1584px;
+height: 1555px;
+left: 137px;
+top: 9483px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 1584px;
+height: 1348px;
+left: 137px;
+top: 9483px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 477.22px;
+height: 148.84px;
+left: 721px;
+top: 10889.16px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0.22px;
+top: 0px;
+bottom: -0.16px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 273px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 273px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #393838;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 61465 */
+
+position: absolute;
+width: 1130.28px;
+height: 1016.24px;
+left: 511px;
+top: 9641px;
+
+
+
+/* Line 129 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 513.08px;
+top: 10148px;
+
+border: 1px solid #000000;
+
+
+/* Line 125 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 513.08px;
+top: 9641px;
+
+border: 1px solid #000000;
+
+
+/* Line 130 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 513.08px;
+top: 10321.24px;
+
+border: 1px solid #000000;
+
+
+/* Line 127 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 513.08px;
+top: 9977px;
+
+border: 1px solid #000000;
+
+
+/* Line 131 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 513.08px;
+top: 10657.24px;
+
+border: 1px solid #000000;
+
+
+/* Line 126 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 511px;
+top: 9809px;
+
+border: 1px solid #000000;
+
+
+/* Line 132 */
+
+position: absolute;
+width: 1128.2px;
+height: 0px;
+left: 511px;
+top: 10489.24px;
+
+border: 1px solid #000000;
+
+
+/* Group 61465 */
+
+position: absolute;
+width: 1600px;
+height: 7264px;
+left: 69px;
+top: 3497px;
+
+
+
+/* Projects */
+
+position: absolute;
+width: 515px;
+height: 69px;
+left: 86px;
+top: 9294px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Recent work from our studios */
+
+position: absolute;
+width: 568px;
+height: 46px;
+left: 86px;
+top: 9372px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+
+color: #161616;
+
+
+
+/* What we can do for you */
+
+position: absolute;
+width: 568px;
+height: 46px;
+left: 69px;
+top: 3497px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+
+color: #161616;
+
+
+
+/* Group 61480 */
+
+position: absolute;
+width: 1413px;
+height: 1233px;
+left: 256px;
+top: 9528px;
+
+
+
+/* ASAP offices will be closed for annual summer leave from August 3rd to August 23rd. Response times to inquiries may be slower during this period */
+
+position: absolute;
+width: 1122px;
+height: 105px;
+left: 547px;
+top: 9528px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Voiceover recordings in Kurdish Bahdini, for Verizon */
+
+position: absolute;
+width: 773px;
+height: 26px;
+left: 547px;
+top: 10224px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Content localisation in Arabic, Taiwanese, Czech, Dutch, French, German, Greek, Hebrew, Italian, Japanese, Korean, Polish, EU Portuguese, BR Portuguese, Russian, EU Spanish, LATAM Spanish, Turkish and Ukrainian, for Airalo */
+
+position: absolute;
+width: 1122px;
+height: 103px;
+left: 544px;
+top: 9858px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Voiceover recordings in Arabic, Taiwanese, Czech, Dutch, French, German, Greek, Hebrew, Italian, Japanese, Korean, Polish, EU Portuguese, BR Portuguese, Russian, EU Spanish, LATAM Spanish, Turkish and Ukrainian, for Airalo */
+
+position: absolute;
+width: 1122px;
+height: 105px;
+left: 544px;
+top: 10531px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Content localisation and voiceover recordings in Thai, for Quizrr */
+
+position: absolute;
+width: 945px;
+height: 26px;
+left: 547px;
+top: 9715px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Commercial voiceover recordings in Bulgarian, for Hotel Campus */
+
+position: absolute;
+width: 1122px;
+height: 25px;
+left: 544px;
+top: 10394px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Voiceover recordings in Slovenian, for The European Union */
+
+position: absolute;
+width: 875px;
+height: 26px;
+left: 547px;
+top: 10054px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* Voice over recordings in American English, for Boehringer Ingelheim */
+
+position: absolute;
+width: 1026px;
+height: 26px;
+left: 544px;
+top: 10732px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #161616;
+
+
+
+/* 29 Jul 2024 */
+
+position: absolute;
+width: 211px;
+height: 32px;
+left: 259px;
+top: 9538px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 15 Jul 2024 */
+
+position: absolute;
+width: 202px;
+height: 32px;
+left: 259px;
+top: 10222px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 20 Jul 2024 */
+
+position: absolute;
+width: 213px;
+height: 32px;
+left: 259px;
+top: 9874px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 4 Jul 2024 */
+
+position: absolute;
+width: 192px;
+height: 32px;
+left: 259px;
+top: 10554px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 29 Jul 2024 */
+
+position: absolute;
+width: 211px;
+height: 32px;
+left: 259px;
+top: 9715px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 10 Jul 2024 */
+
+position: absolute;
+width: 205px;
+height: 32px;
+left: 256px;
+top: 10390px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 19 Jul 2024 */
+
+position: absolute;
+width: 204px;
+height: 32px;
+left: 256px;
+top: 10051px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* 1 Jul 2024 */
+
+position: absolute;
+width: 181px;
+height: 32px;
+left: 259px;
+top: 10729px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #161616;
+
+
+
+/* Video in Production */
+
+position: absolute;
+width: 1920px;
+height: 1003px;
+left: 0px;
+top: 8210px;
+
+
+
+/* Rectangle 1773 */
+
+position: absolute;
+width: 1920px;
+height: 1003px;
+left: 0px;
+top: 8210px;
+
+background: #000000;
+
+
+/* Video in Production */
+
+position: absolute;
+width: 1920px;
+height: 1003px;
+left: 0px;
+top: 8210px;
+
+background: url(ChatGPT Image Dec 13, 2025, 12_47_05 AM.png);
+mix-blend-mode: luminosity;
+
+
+/* Video In production, coming soon */
+
+position: absolute;
+width: 427px;
+height: 32px;
+left: 746px;
+top: 8643px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+
+color: #FFFFFF;
+
+
+
+/* Workflow */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -165px;
+top: 6907px;
+
+
+
+/* Group 61464 */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -165px;
+top: 6907px;
+
+
+
+/* Particle */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -165px;
+top: 6907px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_45_48 AM.png);
+mix-blend-mode: darken;
+
+
+/* Rectangle 1767 */
+
+position: absolute;
+width: 489px;
+height: 361px;
+left: 170px;
+top: 7223px;
+
+background: #000022;
+border-radius: 25px;
+
+
+/* Rectangle 1770 */
+
+position: absolute;
+width: 489px;
+height: 361px;
+left: 170px;
+top: 7685px;
+
+background: #000022;
+border-radius: 25px;
+
+
+/* Rectangle 1769 */
+
+position: absolute;
+width: 489px;
+height: 361px;
+left: 1259.5px;
+top: 7223px;
+
+background: #000022;
+border-radius: 25px;
+
+
+/* Rectangle 1768 */
+
+position: absolute;
+width: 487px;
+height: 362px;
+left: 716px;
+top: 7222px;
+
+background: linear-gradient(180deg, #000022 22.85%, #1E2F45 100%);
+border-radius: 25px;
+
+
+/* Rectangle 1774 */
+
+position: absolute;
+width: 489px;
+height: 361px;
+left: 1260px;
+top: 7685px;
+
+background: #000022;
+border-radius: 25px;
+
+
+/* Rectangle 1775 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 489px;
+height: 361px;
+left: 715px;
+top: 7685px;
+
+background: #000022;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+
+
+/* BG */
+
+position: absolute;
+left: 736px;
+right: 736px;
+top: 7702px;
+bottom: 10301px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* BG */
+
+position: absolute;
+left: 1280px;
+right: 192px;
+top: 7702px;
+bottom: 10296px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* BG */
+
+position: absolute;
+left: 189px;
+right: 1283px;
+top: 7236px;
+bottom: 10762px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* BG */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 189px;
+right: 1283px;
+top: 7697px;
+bottom: 10301px;
+
+border: 1px solid #000000;
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* BG */
+
+position: absolute;
+left: 735px;
+right: 737px;
+top: 7236px;
+bottom: 10762px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* BG */
+
+position: absolute;
+left: 1280px;
+right: 192px;
+top: 7236px;
+bottom: 10762px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(165, 165, 165, 0.81) 0%, rgba(199, 199, 199, 0.81) 59.13%, rgba(179, 179, 179, 0.81) 92.79%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 20px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 20px;
+
+
+/* 1 */
+
+position: absolute;
+width: 126px;
+height: 253px;
+left: 189px;
+top: 7331px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.2;
+
+
+/* 2 */
+
+position: absolute;
+width: 187px;
+height: 275px;
+left: 736px;
+top: 7333px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 187px;
+height: 275px;
+left: 1264px;
+top: 7333px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.2;
+
+
+/* Inquiring */
+
+position: absolute;
+width: 423px;
+height: 47px;
+left: 214px;
+top: 7247px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+/* or 40px */
+
+color: #FFFFFF;
+
+
+
+/* Editing */
+
+position: absolute;
+width: 423px;
+height: 101px;
+left: 214px;
+top: 7712px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 100%;
+/* or 45px */
+
+color: #FFFFFF;
+
+
+
+/* Voice Selection */
+
+position: absolute;
+width: 410px;
+height: 120px;
+left: 755px;
+top: 7247px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+/* or 40px */
+
+color: #FFFFFF;
+
+
+
+/* Recording */
+
+position: absolute;
+width: 410px;
+height: 47px;
+left: 1300px;
+top: 7247px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+/* or 40px */
+
+color: #FFFFFF;
+
+
+
+/* extensive database */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 214px;
+top: 7297px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* AUDIO ENHANCEMENT */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 219px;
+top: 7767px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* talent and scripts */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 753px;
+top: 7301px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* session and recording */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 1305px;
+top: 7299px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 274px;
+height: 253px;
+left: 185px;
+top: 7791px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.2;
+
+
+/* 5 */
+
+position: absolute;
+width: 187px;
+height: 275px;
+left: 736px;
+top: 7790px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.2;
+
+
+/* 6 */
+
+position: absolute;
+width: 201px;
+height: 275px;
+left: 1264px;
+top: 7794px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 320px;
+line-height: 86%;
+/* or 275px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.2;
+
+
+/* Quality Control */
+
+position: absolute;
+width: 410px;
+height: 120px;
+left: 755px;
+top: 7717px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 100%;
+/* or 40px */
+
+color: #FFFFFF;
+
+
+
+/* Delivery */
+
+position: absolute;
+width: 410px;
+height: 120px;
+left: 1305px;
+top: 7720px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 86%;
+/* or 34px */
+
+color: #FFFFFF;
+
+
+
+/* REVIEW AND APPROVAL */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 753px;
+top: 7767px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* FINAL HANDOVER */
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: 1305px;
+top: 7766px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 86%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Our Services */
+
+position: absolute;
+width: 3131px;
+height: 4098px;
+left: -426px;
+top: 3427px;
+
+
+
+/* Rectangle 1806 */
+
+position: absolute;
+width: 1920px;
+height: 1622px;
+left: 0px;
+top: 5903px;
+
+background: linear-gradient(180deg, #E8E6E6 35.48%, rgba(232, 230, 230, 0) 100%);
+
+
+/* services */
+
+position: absolute;
+width: 826.86px;
+height: 69px;
+left: 64px;
+top: 3427px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1967px;
+height: 373px;
+left: -27px;
+top: 3564px;
+
+border: 1px solid #C3C3C3;
+
+
+/* 01 */
+
+position: absolute;
+width: 189px;
+height: 154px;
+left: 395px;
+top: 3674px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Script translation & transcreation Linguistic & cultural adaption Lip-sync & timing adjustments */
+
+position: absolute;
+width: 367px;
+height: 79px;
+left: 790px;
+top: 3718px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Subtitle adaptation Pronunciation guides & phonetic scripts Dialogue polishing & editing */
+
+position: absolute;
+width: 433px;
+height: 92px;
+left: 1188px;
+top: 3717px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* SCRIPT WORK & LOCALISATION */
+
+position: absolute;
+width: 177px;
+height: 44px;
+left: 64px;
+top: 3729px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1920px;
+height: 373px;
+left: 0px;
+top: 3937px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(AdobeStock_726961253 copy.jpg);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* 02 */
+
+position: absolute;
+width: 225px;
+height: 154px;
+left: 377px;
+top: 4047px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Tourist audio guides Audiobooks & interactive Stroytelling Character performances */
+
+position: absolute;
+width: 367px;
+height: 69px;
+left: 1189px;
+top: 4090px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Advertising & branding Corporate communication Public service announcements */
+
+position: absolute;
+width: 367px;
+height: 68px;
+left: 790px;
+top: 4088px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Voice over RECORDING */
+
+position: absolute;
+width: 131px;
+height: 44px;
+left: 84px;
+top: 4102px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 373px;
+left: 0px;
+top: 4310px;
+
+border: 1px solid #C3C3C3;
+
+
+/* Rectangle 1774 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 373px;
+left: 0px;
+top: 5056px;
+
+border: 1px solid #C3C3C3;
+
+
+/* Rectangle 1755 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 373px;
+left: 0px;
+top: 4683px;
+
+border: 1px solid #C3C3C3;
+
+
+/* Rectangle 1775 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1920px;
+height: 373px;
+left: 0px;
+top: 5429px;
+
+border: 1px solid #C3C3C3;
+
+
+/* 03 */
+
+position: absolute;
+width: 223px;
+height: 154px;
+left: 386px;
+top: 4431px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 05 */
+
+position: absolute;
+width: 225px;
+height: 154px;
+left: 385px;
+top: 5177px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 04 */
+
+position: absolute;
+width: 242px;
+height: 154px;
+left: 376px;
+top: 4804px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 06 */
+
+position: absolute;
+width: 233px;
+height: 154px;
+left: 381px;
+top: 5550px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 178.858px;
+line-height: 86%;
+/* identical to box height, or 154px */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Film and TV dubbing Youtube and podcast localization Video game localization */
+
+position: absolute;
+width: 361px;
+height: 69px;
+left: 807px;
+top: 4455px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Sound design Audio editing, mixing and mastering Remote sound engineering */
+
+position: absolute;
+width: 361px;
+height: 69px;
+left: 807px;
+top: 5213px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Remote sessions with multiple participants Interactive voice direction Virtual studio access */
+
+position: absolute;
+width: 361px;
+height: 92px;
+left: 807px;
+top: 4840px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Talent casting & custom audition calls Multilingual recording coordination Online recording sessions for multiple participants */
+
+position: absolute;
+width: 361px;
+height: 92px;
+left: 807px;
+top: 5586px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Animation and cartoons Celebrity voices dubbing Voice casting and direction */
+
+position: absolute;
+width: 361px;
+height: 92px;
+left: 1189px;
+top: 4462px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Radio jingles and in-the-mix shows Video audio synchronisation and subtitling Custom music theme */
+
+position: absolute;
+width: 361px;
+height: 92px;
+left: 1189px;
+top: 5208px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Live performance recording Real-time audio editing Global talent and client collaboration */
+
+position: absolute;
+width: 361px;
+height: 69px;
+left: 1189px;
+top: 4845px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* Multilingual project workflow management Quality control and final product review Copyright licensing and permissions */
+
+position: absolute;
+width: 432px;
+height: 131px;
+left: 1194px;
+top: 5586px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+letter-spacing: -0.02em;
+
+color: #161616;
+
+
+
+/* MULTIMEDIA DUBBING */
+
+position: absolute;
+width: 136px;
+height: 44px;
+left: 64px;
+top: 4497px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* or 22px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* AUDIO PRODUCTION */
+
+position: absolute;
+width: 222px;
+height: 22px;
+left: 64px;
+top: 5243px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Live online sessions  */
+
+position: absolute;
+width: 249px;
+height: 22px;
+left: 64px;
+top: 4870px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Project management */
+
+position: absolute;
+width: 259px;
+height: 22px;
+left: 64px;
+top: 5616px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 110%;
+/* identical to box height, or 22px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 20px;
+top: 5902px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* ChatGPT Image Dec 13, 2025, 01_45_48 AM 3 */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: 549px;
+top: 5282px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_45_48 AM.png);
+mix-blend-mode: darken;
+transform: rotate(-180deg);
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 378px;
+height: 161px;
+left: 771px;
+top: 5924px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 228px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 228px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #393838;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 34px;
+right: 55px;
+top: 4070px;
+bottom: 13933px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(255, 255, 255, 0.06);
+mix-blend-mode: normal;
+border-radius: 250px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 250px;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1261.78px;
+height: 778.34px;
+left: -426px;
+top: 5628px;
+
+border: 1px solid #0396D4;
+transform: rotate(29.59deg);
+
+
+/* A simple workflow built for speed and quality */
+
+position: absolute;
+width: 836px;
+height: 46px;
+left: 69px;
+top: 7052px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+
+color: #161616;
+
+
+
+/* WORKFLOW */
+
+position: absolute;
+width: 734px;
+height: 69px;
+left: 64px;
+top: 6974px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-transform: uppercase;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* Find the right voice */
+
+position: absolute;
+width: 2271px;
+height: 10142px;
+left: -236px;
+top: 6054px;
+
+
+
+/* Rectangle 1756 */
+
+position: absolute;
+visibility: hidden;
+width: 1803px;
+height: 528px;
+left: 61px;
+top: 6212px;
+
+background: rgba(0, 0, 0, 0.15);
+border-radius: 41px;
+
+
+/* Particle */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -236px;
+top: 6054px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_45_48 AM.png);
+mix-blend-mode: darken;
+
+
+/* Particle */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -121px;
+top: 14758px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_45_48 AM.png);
+mix-blend-mode: darken;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 1718px;
+height: 549px;
+left: 100px;
+top: 6191px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(208, 207, 207, 0.8) 0%, rgba(165, 165, 165, 0.8) 50.48%, rgba(201, 201, 201, 0.8) 98.08%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 99px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+opacity: 0.3;
+border-radius: 99px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search 2500+ talents or contact us if you need help */
+
+position: absolute;
+width: 871px;
+height: 44px;
+left: 531px;
+top: 6367px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 125%;
+/* identical to box height, or 44px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Find the right voice for your project */
+
+position: absolute;
+width: 1171px;
+height: 55px;
+left: 381px;
+top: 6282px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 86%;
+/* identical to box height, or 55px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 1757 */
+
+position: absolute;
+width: 405px;
+height: 94px;
+left: 130px;
+top: 6452px;
+
+background: rgba(255, 255, 255, 0.5);
+border-radius: 25px;
+
+
+/* Rectangle 1758 */
+
+position: absolute;
+width: 405px;
+height: 94px;
+left: 550px;
+top: 6452px;
+
+background: rgba(255, 255, 255, 0.5);
+border-radius: 25px;
+
+
+/* Rectangle 1759 */
+
+position: absolute;
+width: 405px;
+height: 94px;
+left: 970px;
+top: 6452px;
+
+background: rgba(255, 255, 255, 0.5);
+border-radius: 25px;
+
+
+/* Rectangle 1760 */
+
+position: absolute;
+width: 405px;
+height: 94px;
+left: 1390px;
+top: 6452px;
+
+background: rgba(255, 255, 255, 0.5);
+border-radius: 25px;
+
+
+/* Select Language */
+
+position: absolute;
+width: 166px;
+height: 25px;
+left: 149px;
+top: 6486px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 125%;
+/* identical to box height, or 25px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Select Gender */
+
+position: absolute;
+width: 139px;
+height: 25px;
+left: 583px;
+top: 6486px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 125%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Select Skills */
+
+position: absolute;
+width: 115px;
+height: 25px;
+left: 1003px;
+top: 6486px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 125%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Select Age */
+
+position: absolute;
+width: 105px;
+height: 25px;
+left: 1423px;
+top: 6486px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 125%;
+/* identical to box height, or 25px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* dropdown-arrow-svgrepo-com 1 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 485px;
+top: 6486px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 33.33%;
+bottom: 37.5%;
+
+background: #000000;
+
+
+/* dropdown-arrow-svgrepo-com 2 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 905px;
+top: 6486px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 33.33%;
+bottom: 37.5%;
+
+background: #000000;
+
+
+/* dropdown-arrow-svgrepo-com 3 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1325px;
+top: 6486px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 33.33%;
+bottom: 37.5%;
+
+background: #000000;
+
+
+/* dropdown-arrow-svgrepo-com 4 */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1745px;
+top: 6486px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 33.33%;
+bottom: 37.5%;
+
+background: #000000;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 378px;
+height: 80px;
+left: 771px;
+top: 6599px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, #82DAFF 0%, rgba(69, 200, 255, 0.7) 100%);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Send */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 109px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 109px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 2500 Human Voices */
+
+position: absolute;
+width: 2363.03px;
+height: 1534.41px;
+left: 0px;
+top: 2163px;
+
+
+
+/* Rectangle 1810 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 2163px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 48.08%, rgba(0, 0, 0, 0.6) 100%);
+transform: rotate(-180deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 2163px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.344) 0%, rgba(0, 0, 0, 0) 49.52%, rgba(0, 0, 0, 0.43) 100%), url(Screenshot 2025-02-06 at 13.08.24.png);
+
+
+/* Group 61358 */
+
+position: absolute;
+width: 88px;
+height: 8px;
+left: 1194px;
+top: 2913px;
+
+
+
+/* Rectangle 1753 */
+
+position: absolute;
+width: 39px;
+height: 8px;
+left: 1194px;
+top: 2913px;
+
+background: #0396D4;
+border-radius: 29px;
+
+
+/* Rectangle 1754 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 39px;
+height: 8px;
+left: 1243px;
+top: 2913px;
+
+border: 1px solid #FFFFFF;
+border-radius: 29px;
+
+
+/* Group 61470 */
+
+position: absolute;
+width: 378px;
+height: 161px;
+left: 1316px;
+top: 2966px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 378px;
+height: 161px;
+left: 1316px;
+top: 2966px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+mix-blend-mode: normal;
+opacity: 0.6;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(255, 255, 255, 0.3);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 180px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 180px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Circle */
+
+position: absolute;
+width: 1459.33px;
+height: 1186.91px;
+left: 903.7px;
+top: 2510.5px;
+
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1261.78px;
+height: 778.34px;
+left: 903.7px;
+top: 2510.5px;
+
+border: 1px solid #0396D4;
+transform: rotate(-158.48deg);
+
+
+/* A global network of selected trained professionals, */
+
+position: absolute;
+width: 632px;
+height: 76px;
+left: 1189px;
+top: 2645px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 120%;
+/* or 38px */
+
+color: #FFFFFF;
+
+
+
+/* representing voice actors, stage and media performers, translators, linguists, public speaking experts, sound engineers, musicians and media audio specialists. */
+
+position: absolute;
+width: 572px;
+height: 201px;
+left: 1189px;
+top: 2739px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+color: #FFFFFF;
+
+
+
+/* Group 61354 */
+
+position: absolute;
+width: 1238px;
+height: 258px;
+left: 274px;
+top: 2516px;
+
+
+
+/* 2500+ INTERNATIONAL */
+
+position: absolute;
+width: 1200px;
+height: 86px;
+left: 312px;
+top: 2516px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 99.88px;
+line-height: 86%;
+/* identical to box height, or 86px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* VOICES */
+
+position: absolute;
+width: 385px;
+height: 86px;
+left: 386px;
+top: 2602px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 99.88px;
+line-height: 86%;
+/* identical to box height, or 86px */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* WORLDWIDE */
+
+position: absolute;
+width: 871px;
+height: 86px;
+left: 274px;
+top: 2688px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 99.8818px;
+line-height: 86%;
+/* identical to box height, or 86px */
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Hero */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+
+
+/* image 461 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(360deg, rgba(0, 0, 0, 0.8) 2.88%, rgba(0, 0, 0, 0) 24.52%, rgba(0, 0, 0, 0) 78.37%, rgba(0, 0, 0, 0.8) 88.46%), url(Screenshot 2025-02-06 at 11.06.58.png), #000000;
+
+
+/* VOICE REcORDING & AUDIO PRODUCTION SINCE 2004 */
+
+position: absolute;
+width: 1744px;
+height: 138px;
+left: 101px;
+top: 890px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 86%;
+/* or 69px */
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Header */
+
+position: absolute;
+width: 1747px;
+height: 69px;
+left: 101px;
+top: 32px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 213px;
+height: 69px;
+left: 1545px;
+top: 32px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(0deg, #9B9B9B, #9B9B9B), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #BCBCBC 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 142px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 142px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Menu / Menu_Alt_05 */
+
+position: absolute;
+left: 92.66%;
+right: 3.75%;
+top: 0.18%;
+bottom: 99.44%;
+
+
+
+/* Group 61474 */
+
+position: absolute;
+width: 69px;
+height: 69px;
+left: 1779px;
+top: 32px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 69px;
+height: 69px;
+left: 1779px;
+top: 32px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(0deg, #A2A2A2, #A2A2A2), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #BCBCBC 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.69%;
+right: 4.79%;
+top: 0.31%;
+bottom: 99.57%;
+
+border: 4.17061px solid #FFFFFF;
+
+
+/* Header */
+
+position: absolute;
+width: 1737.47px;
+height: 50.05px;
+left: 101px;
+top: 42.23px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+visibility: hidden;
+width: 1791px;
+height: 82px;
+left: 64px;
+top: 26px;
+
+border-radius: 121px;
+
+
+/* Group 61469 */
+
+position: absolute;
+width: 1270px;
+height: 24px;
+left: 101px;
+top: 55px;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 823px;
+height: 24px;
+left: 548px;
+top: 55px;
+
+
+
+/* SERVICE */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: 548px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* WORKFLOW */
+
+position: absolute;
+width: 133px;
+height: 24px;
+left: 719px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* PROJECTS */
+
+position: absolute;
+width: 109px;
+height: 24px;
+left: 916px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* CLIENTS */
+
+position: absolute;
+width: 87px;
+height: 24px;
+left: 1103px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* CONTACT */
+
+position: absolute;
+width: 100px;
+height: 24px;
+left: 1271px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 196.36px;
+height: 18px;
+left: 101px;
+top: 58px;
+
+background: url(Asap Studio1.png);
+
+
+/* Burger */
+
+position: absolute;
+width: 50.05px;
+height: 50.05px;
+left: 1788.42px;
+top: 42.23px;
+
+
+
+/* menu-alt-05-svgrepo-com 1 */
+
+position: absolute;
+width: 50.05px;
+height: 50.05px;
+left: 1788.42px;
+top: 42.23px;
+
+
+
+/* Project Snapshots */
+
+position: absolute;
+width: 1923px;
+height: 3225px;
+left: 0px;
+top: 12248px;
+
+
+
+/* Particle Background */
+
+position: absolute;
+width: 1923px;
+height: 1282px;
+left: 0px;
+top: 12248px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_48_08 AM.png);
+mix-blend-mode: darken;
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 1808px;
+top: 12804px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* CLIENTS */
+
+position: absolute;
+width: 826.86px;
+height: 69px;
+left: 85px;
+top: 12809px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Trusted audio source for worldwide brands */
+
+position: absolute;
+width: 790px;
+height: 46px;
+left: 85px;
+top: 12887px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+
+color: #161616;
+
+
+
+/* Select a wide range of voice overs */
+
+position: absolute;
+width: 790px;
+height: 46px;
+left: 55px;
+top: 15427px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 132%;
+/* or 46px */
+
+color: #161616;
+
+
+
+/* Rectangle 1810 */
+
+position: absolute;
+width: 229px;
+height: 3px;
+left: 1091px;
+top: 14290px;
+
+background: linear-gradient(90deg, rgba(75, 207, 214, 0) 0%, #4BCFD6 52.4%, rgba(102, 211, 217, 0) 100%);
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* Clients */
+
+position: absolute;
+width: 1593px;
+height: 2160px;
+left: 160px;
+top: 13006px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 1146px;
+height: 161px;
+left: 405px;
+top: 15005px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 332px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 332px;
+height: 40px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 817px;
+top: 13652px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 817px;
+top: 13964px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 590px;
+height: 275px;
+left: 817px;
+top: 14276px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 1131px;
+top: 13334px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 1446px;
+top: 13023px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 503px;
+top: 13334px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 190px;
+top: 13023px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 1130px;
+top: 14589px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 275px;
+height: 275px;
+left: 502px;
+top: 14589px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 50px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: normal;
+border-radius: 50px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 07_Rolls Royce */
+
+position: absolute;
+width: 99px;
+height: 173px;
+left: 276px;
+top: 13065px;
+
+background: url(07_Rolls Royce.png);
+opacity: 0.5;
+border-radius: 11px;
+
+
+/* 04_Porsche */
+
+position: absolute;
+width: 143px;
+height: 191px;
+left: 566px;
+top: 13061px;
+
+background: url(04_Porsche.png);
+opacity: 0.7;
+
+
+/* 16_Norwegian Red Cross */
+
+position: absolute;
+width: 311px;
+height: 101px;
+left: 801px;
+top: 13104px;
+
+background: url(16_Norwegian Red Cross.png);
+opacity: 0.6;
+
+
+/* 02_Quizrr */
+
+position: absolute;
+width: 261px;
+height: 81px;
+left: 1142px;
+top: 13114px;
+
+background: url(02_Quizrr.png);
+opacity: 0.5;
+
+
+/* 13_VISA */
+
+position: absolute;
+width: 203px;
+height: 66px;
+left: 1483px;
+top: 13128px;
+
+background: url(13_VISA.png);
+opacity: 0.6;
+
+
+/* 26_UNHCR */
+
+position: absolute;
+width: 179px;
+height: 179px;
+left: 1502px;
+top: 13374px;
+
+background: url(26_UNHCR.png);
+opacity: 0.6;
+
+
+/* 11_History Channel */
+
+position: absolute;
+width: 188px;
+height: 197px;
+left: 232px;
+top: 13374px;
+
+background: url(11_History Channel.png);
+opacity: 0.5;
+
+
+/* 15_Verizon */
+
+position: absolute;
+width: 240px;
+height: 135px;
+left: 518px;
+top: 13403px;
+
+background: url(15_Verizon.png);
+
+
+/* 14_LADWP */
+
+position: absolute;
+width: 257px;
+height: 84px;
+left: 826px;
+top: 13426px;
+
+background: url(14_LADWP.png);
+
+
+/* 30_ROADPOL */
+
+position: absolute;
+width: 220px;
+height: 55px;
+left: 230px;
+top: 13765px;
+
+background: url(30_ROADPOL.png);
+
+
+/* 17_WOLT */
+
+position: absolute;
+width: 214px;
+height: 214px;
+left: 535px;
+top: 13686px;
+
+background: url(17_WOLT.png);
+mix-blend-mode: normal;
+
+
+/* 23_Peek___Cloppenburg */
+
+position: absolute;
+width: 249px;
+height: 64px;
+left: 833px;
+top: 13756px;
+
+background: url(23_Peek___Cloppenburg.png);
+opacity: 0.5;
+
+
+/* 18_Subaru */
+
+position: absolute;
+width: 198px;
+height: 120px;
+left: 1167px;
+top: 13719px;
+
+background: url(18_Subaru.png);
+opacity: 0.5;
+
+
+/* 05_Boehringer Iingelheim */
+
+position: absolute;
+width: 234px;
+height: 72px;
+left: 1467px;
+top: 13745px;
+
+background: url(05_Boehringer Iingelheim.png);
+opacity: 0.5;
+
+
+/* 01_Airalo */
+
+position: absolute;
+width: 155px;
+height: 155px;
+left: 248px;
+top: 14000px;
+
+background: url(01_Airalo.png);
+opacity: 0.8;
+
+
+/* 08_Coca-Cola */
+
+position: absolute;
+width: 257px;
+height: 80px;
+left: 511px;
+top: 14049px;
+
+background: url(08_Coca-Cola.png);
+opacity: 0.9;
+
+
+/* 03_MoneyGram */
+
+position: absolute;
+width: 265px;
+height: 56px;
+left: 824px;
+top: 14062px;
+
+background: url(03_MoneyGram.png);
+opacity: 0.5;
+
+
+/* 12_ROI */
+
+position: absolute;
+width: 121px;
+height: 192px;
+left: 1205px;
+top: 13996px;
+
+background: url(12_ROI.png);
+opacity: 0.5;
+
+
+/* 09_Mondelēz International */
+
+position: absolute;
+width: 258px;
+height: 63px;
+left: 1455px;
+top: 14060px;
+
+background: url(09_Mondelēz International.png);
+opacity: 0.5;
+
+
+/* 19_Bosch */
+
+position: absolute;
+width: 294px;
+height: 125px;
+left: 1430px;
+top: 14342px;
+
+background: url(19_Bosch.png);
+opacity: 0.5;
+
+
+/* 21_Marriott */
+
+position: absolute;
+width: 240px;
+height: 188px;
+left: 1481px;
+top: 14629px;
+
+background: url(21_Marriott.png);
+opacity: 0.5;
+
+
+/* 25_LIDL */
+
+position: absolute;
+width: 166px;
+height: 166px;
+left: 1185px;
+top: 14640px;
+
+background: url(25_LIDL.png);
+opacity: 0.5;
+
+
+/* 20_Kiron Interactive */
+
+position: absolute;
+width: 275px;
+height: 85px;
+left: 817px;
+top: 14680px;
+
+background: url(20_Kiron Interactive.jpg);
+mix-blend-mode: multiply;
+opacity: 0.5;
+
+
+/* Nespresso 1 */
+
+position: absolute;
+width: 292px;
+height: 184px;
+left: 180px;
+top: 14305px;
+
+background: url(Nespresso.png);
+opacity: 0.5;
+
+
+/* pngimg.com - nintendo_PNG19 */
+
+position: absolute;
+width: 315px;
+height: 107px;
+left: 483px;
+top: 14353px;
+
+background: url(pngimg.com - nintendo_PNG19.png);
+opacity: 0.5;
+
+
+/* tripadvisor-logo-png_seeklogo-368343 */
+
+position: absolute;
+width: 166px;
+height: 166px;
+left: 555px;
+top: 14640px;
+
+background: url(tripadvisor-logo-png_seeklogo-368343.png);
+opacity: 0.5;
+
+
+/* spar-1-logo-png-transparent 1 */
+
+position: absolute;
+width: 191px;
+height: 191px;
+left: 232px;
+top: 14629px;
+
+background: url(spar-1-logo-png-transparent.png);
+opacity: 0.8;
+
+
+/* puma-transparent-puma-free-free-png 1 */
+
+position: absolute;
+width: 226px;
+height: 226px;
+left: 1160px;
+top: 13341px;
+
+background: url(puma-transparent-puma-free-free-png.png);
+opacity: 0.5;
+
+
+/* Lines */
+
+position: absolute;
+width: 1593px;
+height: 1859px;
+left: 160px;
+top: 13006px;
+
+opacity: 0.43;
+
+
+/* Line 134 */
+
+position: absolute;
+width: 1859px;
+height: 0px;
+left: 485px;
+top: 13006px;
+
+border: 1px solid #343434;
+transform: rotate(90deg);
+
+
+/* Line 135 */
+
+position: absolute;
+width: 1859px;
+height: 0px;
+left: 799px;
+top: 13006px;
+
+border: 1px solid #343434;
+transform: rotate(90deg);
+
+
+/* Line 136 */
+
+position: absolute;
+width: 1859px;
+height: 0px;
+left: 1113px;
+top: 13006px;
+
+border: 1px solid #343434;
+transform: rotate(90deg);
+
+
+/* Line 137 */
+
+position: absolute;
+width: 1859px;
+height: 0px;
+left: 1427px;
+top: 13006px;
+
+border: 1px solid #343434;
+transform: rotate(90deg);
+
+
+/* Line 138 */
+
+position: absolute;
+width: 1593px;
+height: 0px;
+left: 160px;
+top: 13317px;
+
+border: 1px solid #343434;
+transform: rotate(180deg);
+
+
+/* Line 139 */
+
+position: absolute;
+width: 1593px;
+height: 0px;
+left: 160px;
+top: 13631px;
+
+border: 1px solid #343434;
+transform: rotate(180deg);
+
+
+/* Line 140 */
+
+position: absolute;
+width: 1593px;
+height: 0px;
+left: 160px;
+top: 13945px;
+
+border: 1px solid #343434;
+transform: rotate(180deg);
+
+
+/* Line 141 */
+
+position: absolute;
+width: 1593px;
+height: 0px;
+left: 160px;
+top: 14259px;
+
+border: 1px solid #343434;
+transform: rotate(180deg);
+
+
+/* Line 142 */
+
+position: absolute;
+width: 1593px;
+height: 0px;
+left: 160px;
+top: 14573px;
+
+border: 1px solid #343434;
+transform: rotate(180deg);
+
+
+/* 06_Google */
+
+position: absolute;
+width: 212px;
+height: 72px;
+left: 854px;
+top: 14378px;
+
+background: url(06_Google.png);
+
+
+/* TV commercial audio production in German */
+
+position: absolute;
+width: 227px;
+height: 81px;
+left: 1155px;
+top: 14370px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+display: flex;
+align-items: center;
+
+color: #6D6D6D;
+
+
+
+/* Group 61476 */
+
+position: absolute;
+width: 1735.92px;
+height: 1554px;
+left: 61.04px;
+top: 11220px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 1735.92px;
+height: 1554px;
+left: 61.04px;
+top: 11220px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+display: none;
+left: 0px;
+right: -0.08px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 01.Pavel Nikolov_Head of Production (Europe)_02 1 */
+
+position: absolute;
+width: 254.95px;
+height: 349.38px;
+left: 149.81px;
+top: 11296.71px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 59.29%, #000000 90.38%), url(01.Pavel Nikolov_Head of Production (Europe)_02.png);
+border-radius: 40px 0px 0px 0px;
+
+
+/* 02. Irma Yordanova_Head of Operations (Global) 1 */
+
+position: absolute;
+width: 263.02px;
+height: 357.27px;
+left: 398.86px;
+top: 11296.71px;
+
+background: url(02. Irma Yordanova_Head of Operations (Global).png);
+
+
+/* 03. Mateo Alvarez_Linguist (LATAM) 1 */
+
+position: absolute;
+width: 262.86px;
+height: 350.48px;
+left: 658.31px;
+top: 11296.71px;
+
+background: url(03. Mateo Alvarez_Linguist (LATAM).png);
+
+
+/* 04. Nia Abebe_Project Manager (Africa) 1 */
+
+position: absolute;
+width: 263.83px;
+height: 350.26px;
+left: 918.99px;
+top: 11296.71px;
+
+background: url(04. Nia Abebe_Project Manager (Africa).png);
+
+
+/* 05. Daniel Kim_Accountant (Asia) 1 */
+
+position: absolute;
+width: 263.02px;
+height: 348.5px;
+left: 1182.44px;
+top: 11296.71px;
+
+background: url(05. Daniel Kim_Accountant (Asia).png);
+
+
+/* 06. Emma Larson_Linguist (Scandinavia) 1 */
+
+position: absolute;
+width: 263.83px;
+height: 350.26px;
+left: 1442.98px;
+top: 11296.71px;
+
+background: url(06. Emma Larson_Linguist (Scandinavia).png);
+border-radius: 0px 40px 0px 0px;
+
+
+/* 07. Leilani Katoa_Content Localization (APAC) 1 */
+
+position: absolute;
+width: 248.77px;
+height: 350.69px;
+left: 150.09px;
+top: 11646.31px;
+
+background: url(07. Leilani Katoa_Content Localization (APAC).png);
+
+
+/* 08. Benjamin Williams_Audio Engineer (North America) 1 */
+
+position: absolute;
+width: 263.02px;
+height: 350.69px;
+left: 398.86px;
+top: 11646.31px;
+
+background: url(08. Benjamin Williams_Audio Engineer (North America).png);
+
+
+/* 09. Aisha Patel_Intellectual Property (Global) 1 */
+
+position: absolute;
+width: 264.11px;
+height: 348.5px;
+left: 655.31px;
+top: 11646.31px;
+
+background: url(09. Aisha Patel_Intellectual Property (Global).png);
+
+
+/* 10. Nguyen An_Linguist (APAC) 1 */
+
+position: absolute;
+width: 262.45px;
+height: 349.94px;
+left: 919.8px;
+top: 11646.79px;
+
+background: url(10. Nguyen An_Linguist (APAC).png);
+
+
+/* 11. Keiko Sato_Project Manager (Oceania) 1 */
+
+position: absolute;
+width: 264.39px;
+height: 352.52px;
+left: 1180.25px;
+top: 11645.21px;
+
+background: url(11. Keiko Sato_Project Manager (Oceania).png);
+
+
+/* 12. Rajesh Nair_Sound Design (APAC) 1 */
+
+position: absolute;
+width: 262.45px;
+height: 349.94px;
+left: 1444.51px;
+top: 11646.79px;
+
+background: url(12. Rajesh Nair_Sound Design (APAC).png);
+
+
+/* 13. Thabo Mbeki_Audio Engineer (Africa) 1 */
+
+position: absolute;
+width: 248.77px;
+height: 350.69px;
+left: 150.09px;
+top: 11995.9px;
+
+background: url(13. Thabo Mbeki_Audio Engineer (Africa).png);
+
+
+/* 14. Hana Suzuki_Project Manager (Asia) 1 */
+
+position: absolute;
+width: 255.35px;
+height: 349.6px;
+left: 399.96px;
+top: 11995.9px;
+
+background: url(14. Hana Suzuki_Project Manager (Asia).png);
+
+
+/* 15. David Nikolov_Producer (Europe) 1 */
+
+position: absolute;
+width: 264.11px;
+height: 350.69px;
+left: 655.31px;
+top: 11994.81px;
+
+background: url(15. David Nikolov_Producer (Europe).png);
+
+
+/* 16. Mei Lin_Content Localization (LATAM) 1 */
+
+position: absolute;
+width: 261.92px;
+height: 352.88px;
+left: 919.42px;
+top: 11993.71px;
+
+background: url(16. Mei Lin_Content Localization (LATAM).png);
+
+
+/* 17. Ahmed Hassan_Content Localization (EMEA) 1 */
+
+position: absolute;
+width: 265.21px;
+height: 352.88px;
+left: 1180.25px;
+top: 11992.62px;
+
+background: url(17. Ahmed Hassan_Content Localization (EMEA).png);
+
+
+/* 18. Ingrid Goldberg_Accountant (Europe) 1 */
+
+position: absolute;
+width: 263.02px;
+height: 350.69px;
+left: 1445.46px;
+top: 11994.81px;
+
+background: url(18. Ingrid Goldberg_Accountant (Europe).png);
+
+
+/* 19. Samuel Wong_Linguist (EMEA) 1 */
+
+position: absolute;
+width: 249.87px;
+height: 350.69px;
+left: 150.09px;
+top: 12345.5px;
+
+background: url(19. Samuel Wong_Linguist (EMEA).png);
+border-radius: 0px 0px 0px 40px;
+
+
+/* 20. Gabriela Ortiz_Project Manager (South America) 1 */
+
+position: absolute;
+width: 262.15px;
+height: 349.53px;
+left: 399.98px;
+top: 12346.12px;
+
+background: url(20. Gabriela Ortiz_Project Manager (South America).png);
+
+
+/* 21. Kai Tanaka_Audio Engineer (Asia) 1 */
+
+position: absolute;
+width: 267.02px;
+height: 350.34px;
+left: 655.83px;
+top: 12345.85px;
+
+background: url(21. Kai Tanaka_Audio Engineer (Asia).png);
+
+
+/* 22. Olivia Bennett_Project Manager (North America) 1 */
+
+position: absolute;
+width: 262.45px;
+height: 349.94px;
+left: 923.05px;
+top: 12346.12px;
+
+background: url(22. Olivia Bennett_Project Manager (North America).png);
+
+
+/* 23. Lukas Schmidt_Audio Engineer (Europe) 1 */
+
+position: absolute;
+width: 263.18px;
+height: 350.05px;
+left: 1182.97px;
+top: 12345.31px;
+
+background: url(23. Lukas Schmidt_Audio Engineer (Europe).png);
+
+
+/* 24. Amina Farah_Linguist (Africa) 1 */
+
+position: absolute;
+width: 263.16px;
+height: 350.88px;
+left: 1446.13px;
+top: 12344.21px;
+
+background: url(24. Amina Farah_Linguist (Africa).png);
+border-radius: 0px 0px 40px 0px;
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 109.59px;
+height: 109.59px;
+left: 119.12px;
+top: 11287.95px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 233.92px;
+height: 41.42px;
+left: 1194.21px;
+top: 11933.44px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: -0.08px;
+top: 0px;
+bottom: 0.42px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.73) 0%, rgba(255, 255, 255, 0.73) 100%);
+background-blend-mode: color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 11px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 11px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Keiko Sato Project Manager ( Oceania ) */
+
+position: absolute;
+width: 247.73px;
+height: 45.49px;
+left: 1209.2px;
+top: 11934.56px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+
+color: #FFFFFF;
+
+
+
+/* Specialising Background */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 1080px;
+
+
+
+/* Rectangle 1866 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 1080px;
+
+background: #D9D9D9;
+
+
+/* ChatGPT Image Dec 13, 2025, 01_45_48 AM 1 */
+
+position: absolute;
+width: 2156px;
+height: 1438px;
+left: -199px;
+top: 893px;
+
+background: url(ChatGPT Image Dec 13, 2025, 01_45_48 AM.png);
+mix-blend-mode: multiply;
+
+
+/* Specialising in Multilingual Projects */
+
+position: absolute;
+width: 1881px;
+height: 886px;
+left: 38.2px;
+top: 1173px;
+
+
+
+/* Rectangle 1809 */
+
+position: absolute;
+visibility: hidden;
+width: 1920px;
+height: 1080px;
+left: -2.8px;
+top: 1076px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 80.77%, rgba(0, 0, 0, 0.42) 100%);
+
+
+/* SPECIALISING IN */
+
+position: absolute;
+width: 879px;
+height: 69px;
+left: 818.2px;
+top: 1487px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-align: right;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* MULTILINGUAL PROJECTS */
+
+position: absolute;
+width: 1489px;
+height: 69px;
+left: 141.2px;
+top: 1565px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 86%;
+/* identical to box height, or 69px */
+text-align: right;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* From rare languages to complex audio tasks, every step of the process is covered. */
+
+position: absolute;
+width: 430px;
+height: 236px;
+left: 1209px;
+top: 1666px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 134%;
+/* or 38px */
+
+color: #000000;
+
+
+
+/* Rectangle 1808 */
+
+position: absolute;
+width: 1881px;
+height: 1px;
+left: 38.2px;
+top: 1833px;
+
+background: linear-gradient(90deg, rgba(75, 207, 214, 0) 0%, #4BCFD6 100%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 378px;
+height: 161px;
+left: 1290.2px;
+top: 1898px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 245px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 245px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+font-feature-settings: 'ss16' on;
+
+color: #4A4A4A;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Kleiner Kreis */
+
+position: absolute;
+width: 210px;
+height: 210px;
+left: 470.2px;
+top: 1250px;
+
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 210px;
+height: 210px;
+left: 470.2px;
+top: 1250px;
+
+background: rgba(0, 0, 0, 0.004);
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* VOICEOVER - DUBBING - AUDIO PRODUCTION 1 */
+
+position: absolute;
+width: 186px;
+height: 186px;
+left: 482.2px;
+top: 1262px;
+
+background: url(VOICEOVER - DUBBING - AUDIO PRODUCTION.png);
+
+
+/* ...... ...... ...... */
+
+position: absolute;
+width: 92px;
+height: 60px;
+left: 1784.2px;
+top: 1173px;
+
+font-family: 'Beiruti';
+font-style: normal;
+font-weight: 400;
+font-size: 57.5874px;
+line-height: 20px;
+/* or 34% */
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #0396D4;
+
+transform: rotate(-90deg);
+
+
+/* Kreis */
+
+position: absolute;
+width: 667.51px;
+height: 667.51px;
+left: 39.44px;
+top: 1755.25px;
+
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 472px;
+height: 472px;
+left: 137.2px;
+top: 1853px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, #010A16 77.85%), url(Conceot Design 4 copy.jpg);
+transform: rotate(180deg);
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 472px;
+height: 472px;
+left: 39.44px;
+top: 1755.25px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, #010A16 26.92%), url(Conceot Design 4 copy.jpg);
+mix-blend-mode: screen;
+transform: rotate(-45deg);
+
+
+/* Button - Liquid Glass - Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 20px;
+gap: 4px;
+isolation: isolate;
+
+position: absolute;
+width: 472px;
+height: 472px;
+left: 137.2px;
+top: 1853px;
+
+border-radius: 1000px;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: drop-shadow(6px 4px 14px rgba(0, 0, 0, 0.25));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Blur */
+
+position: absolute;
+left: -26px;
+right: -26px;
+top: -26px;
+bottom: -26px;
+
+opacity: 0.67;
+
+
+/* Mask */
+
+position: absolute;
+left: -50px;
+right: -50px;
+top: -50px;
+bottom: -50px;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 76px;
+right: 76px;
+top: 76px;
+bottom: 76px;
+
+background: #000000;
+border-radius: 1000px;
+
+
+/* Blur */
+
+position: absolute;
+left: 26px;
+right: 26px;
+top: 28px;
+bottom: 24px;
+
+background: rgba(0, 0, 0, 0.04);
+background-blend-mode: hard-light;
+filter: blur(10px);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 1000px;
+
+
+/* Fill */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(90deg, rgba(175, 175, 175, 0.81) 0%, rgba(165, 165, 165, 0.81) 100%), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 100%);
+background-blend-mode: plus-darker, normal, color-dodge;
+mix-blend-mode: hard-light;
+border-radius: 296px;
+
+
+/* Glass Effect */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: rgba(0, 0, 0, 0.004);
+mix-blend-mode: plus-darker;
+border-radius: 296px;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 0px;
+height: 36px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Symbol */
+
+width: 0px;
+height: 30px;
+
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* dedicated project managers personal attention human expertise */
+
+position: absolute;
+width: 386px;
+height: 78px;
+left: 180.2px;
+top: 2050px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 125%;
+/* or 25px */
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
