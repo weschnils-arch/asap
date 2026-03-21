@@ -1712,6 +1712,11 @@ address { font-style: normal; }
   mix-blend-mode: multiply;
 }
 
+.client-logo img[alt="SPAR"],
+.client-logo img[alt="European Union"] {
+  border-radius: 12px;
+}
+
 .client-logo:hover img {
   opacity: 1;
   filter: grayscale(0%);
