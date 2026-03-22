@@ -246,4 +246,11 @@
     );
   }
 
+  /* --- PREVENT HORIZONTAL SCROLL (iOS fix) --- */
+  window.addEventListener('scroll', function () {
+    if (window.scrollX !== 0) {
+      window.scrollTo(0, window.scrollY);
+    }
+  });
+
 })();

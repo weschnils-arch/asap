@@ -47,12 +47,10 @@ body {
   overscroll-behavior-x: none;
   touch-action: pan-y pinch-zoom;
 }
-/* Page wrapper — bulletproof iOS horizontal overflow prevention */
+/* Page wrapper — clip prevents scroll container creation (unlike hidden) */
 .page-wrap {
   width: 100%;
-  overflow-x: hidden;
-  overflow-y: visible;
-  overscroll-behavior-x: none;
+  overflow-x: clip;
 }
 
 img { display: block; max-width: 100%; height: auto; }
