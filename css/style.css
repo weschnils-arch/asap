@@ -34,7 +34,8 @@
 html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
-  overflow-x: clip;
+  overflow-x: hidden;
+  width: 100%;
 }
 body {
   font-family: var(--font);
@@ -42,9 +43,18 @@ body {
   line-height: 1.6;
   color: var(--black);
   background: var(--bg-page);
-  overflow-x: clip;
-  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
 }
+/* Page wrapper — bulletproof iOS horizontal overflow prevention */
+.page-wrap {
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+  position: relative;
+}
+
 img { display: block; max-width: 100%; height: auto; }
 a { color: inherit; text-decoration: none; }
 ul { list-style: none; }
@@ -52,7 +62,7 @@ button, input, select, textarea { font: inherit; color: inherit; border: none; o
 address { font-style: normal; }
 
 /* Figma: content spans ~1804px within 1920px frame */
-.container { width: 100%; max-width: 1800px; margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 4rem); overflow-x: clip; }
+.container { width: 100%; max-width: 1800px; margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 4rem); }
 .container--wide { max-width: 100%; padding: 0 clamp(1.25rem, 3vw, 3.5rem); }
 .container--full { max-width: 100%; padding: 0; }
 
@@ -463,8 +473,7 @@ address { font-style: normal; }
   display: flex;
   align-items: center;
   background: var(--bg-page);
-  overflow-x: clip;
-  overflow-y: visible;
+  overflow: visible;
 }
 
 .specialising__bg {
@@ -2152,19 +2161,6 @@ address { font-style: normal; }
    MOBILE — full responsive fix for all iPhones (375px–430px)
    ============================================ */
 @media (max-width: 768px) {
-  /* Global overflow prevention — belt + suspenders for iOS Safari */
-  html, body {
-    max-width: 100vw;
-    overflow-x: clip;
-    -webkit-text-size-adjust: 100%;
-  }
-
-  /* Ensure all sections clip overflow */
-  section, footer {
-    max-width: 100vw;
-    overflow-x: clip;
-  }
-
   /* Tighter container padding on phones */
   .container {
     padding: 0 16px;
