@@ -557,10 +557,11 @@ address { font-style: normal; }
   .specialising__inner { grid-template-columns: 1fr; text-align: center; }
   .specialising__badge { justify-self: center; }
   .specialising__text { text-align: center; }
-  .specialising__text p { margin-left: auto; margin-right: auto; }
+  .specialising__text h2 { font-size: clamp(22px, 7vw, 40px); }
+  .specialising__text p { margin-left: auto; margin-right: auto; font-size: clamp(13px, 3.5vw, 18px); }
   .specialising__cta-row { grid-template-columns: 1fr; justify-items: center; }
   .specialising__cta-row div { display: none; }
-  .specialising__cta-row .btn-glass-cta { grid-column: 1; justify-self: center; }
+  .specialising__cta-row .btn-glass-cta { grid-column: 1; justify-self: center; min-width: auto; padding: 12px 32px; font-size: 14px; }
 }
 
 /* ============================================
@@ -2148,56 +2149,208 @@ address { font-style: normal; }
 }
 
 /* ============================================
-   MOBILE OVERFLOW FIX — prevent horizontal scroll on all phones
+   MOBILE — full responsive fix for all iPhones (375px–430px)
    ============================================ */
 @media (max-width: 768px) {
-  /* Global overflow prevention */
+  /* Global overflow prevention — belt + suspenders for iOS Safari */
   html, body {
     max-width: 100vw;
     overflow-x: clip;
+    -webkit-text-size-adjust: 100%;
   }
 
   /* Ensure all sections clip overflow */
-  section, footer, header {
+  section, footer {
     max-width: 100vw;
     overflow-x: clip;
   }
 
-  /* Languages grid — prevent overflow on small screens */
+  /* Tighter container padding on phones */
+  .container {
+    padding: 0 16px;
+  }
+
+  /* Hero — fits all phones */
+  .hero__heading {
+    font-size: clamp(18px, 5.5vw, 36px);
+    padding: 1.5rem 16px;
+  }
+  .hero__content {
+    padding: 2rem 16px;
+    padding-bottom: calc(2rem + env(safe-area-inset-bottom, 0px));
+  }
+  .hero__dots { display: none; }
+
+  /* Specialising — already handled above, reinforce */
+  .specialising {
+    min-height: auto;
+    padding: clamp(4rem, 10vw, 6rem) 0;
+  }
+
+  /* Stats section */
+  .stats {
+    min-height: auto;
+    padding: 0;
+  }
+  .stats__big-text {
+    font-size: clamp(28px, 9vw, 50px);
+  }
+  .stats__accent-text {
+    font-size: clamp(14px, 4vw, 20px);
+  }
+  .stats__body-text {
+    font-size: clamp(13px, 3.2vw, 16px);
+  }
+  .stats__slides-wrap {
+    min-height: auto;
+    padding: 2rem 0;
+  }
+  .stats__slide-panel {
+    position: relative;
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 1.5rem;
+    padding: 0;
+  }
+  .stats__slide-panel:not(.stats__slide-panel--active):not(.stats__slide-panel--enter) {
+    display: none;
+  }
+
+  /* Services — full width, no overflow */
+  .services {
+    min-height: auto;
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .services__label {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .services__heading {
+    font-size: clamp(14px, 4vw, 20px);
+  }
+  .service-card {
+    min-height: auto;
+  }
+  .service-card__hover {
+    padding: 1.25rem 16px;
+  }
+  .service-card__number {
+    font-size: clamp(40px, 14vw, 70px);
+  }
+  .service-card__lists li {
+    font-size: clamp(12px, 3vw, 15px);
+  }
+
+  /* Voicebank */
+  .voicebank {
+    min-height: auto;
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .voicebank__card {
+    border-radius: 16px;
+    padding: 1.5rem 16px;
+  }
+  .voicebank h2 {
+    font-size: clamp(20px, 5.5vw, 32px);
+  }
+  .voicebank__sub {
+    font-size: clamp(13px, 3.5vw, 18px);
+  }
+
+  /* Workflow */
+  .workflow {
+    min-height: auto;
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .workflow__heading {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .workflow__sub {
+    font-size: clamp(14px, 3.5vw, 20px);
+  }
+
+  /* Projects */
+  .projects {
+    min-height: auto;
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .projects__label {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .projects__heading {
+    font-size: clamp(14px, 4vw, 20px);
+  }
+
+  /* Team */
+  .team {
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .team__heading {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .team__sub {
+    font-size: clamp(14px, 3.5vw, 20px);
+  }
+
+  /* Clients */
+  .clients {
+    min-height: auto;
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+  .clients__heading {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .clients__sub {
+    font-size: clamp(14px, 3.5vw, 20px);
+  }
+
+  /* Languages */
+  .languages__heading {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .languages__sub {
+    font-size: clamp(14px, 3.5vw, 20px);
+  }
   .list-column li {
     font-size: clamp(10px, 2.5vw, 14px);
     word-break: break-word;
     overflow-wrap: break-word;
   }
 
-  /* Voicebank card — prevent radius overflow */
-  .voicebank__card {
-    border-radius: 20px;
-    padding: clamp(1.5rem, 4vw, 2.5rem);
-  }
-
-  /* Stats big text — scale down to fit */
-  .stats__big-text {
-    font-size: clamp(32px, 10vw, 60px);
-  }
-
-  /* Hero heading — ensure it fits */
-  .hero__heading {
-    font-size: clamp(20px, 6vw, 40px);
-    word-break: break-word;
-  }
-
-  /* Service card number — prevent overflow */
-  .service-card__number {
-    font-size: clamp(48px, 15vw, 80px);
-  }
-
-  /* Map section — prevent overflow */
+  /* Map */
   .map-section {
     overflow: hidden;
   }
   .map-section [data-us-project] {
     height: 400px !important;
+  }
+
+  /* Promo */
+  .promo {
+    min-height: 50vh;
+  }
+
+  /* Footer */
+  .footer {
+    padding: clamp(3rem, 8vw, 5rem) 0 2rem;
+  }
+  .footer__title {
+    font-size: clamp(28px, 8vw, 48px);
+  }
+  .office-card__info h5 {
+    font-size: clamp(16px, 4.5vw, 24px);
+  }
+  .footer__form h5 {
+    font-size: clamp(16px, 4.5vw, 24px);
+  }
+
+  /* Buttons — fit on phone screens */
+  .btn-glass-cta {
+    padding: 12px 28px;
+    font-size: 13px;
+  }
+  .btn-glass-cta--dark {
+    padding: 12px 28px;
+    font-size: 13px;
   }
 }
 
