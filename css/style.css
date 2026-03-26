@@ -2422,22 +2422,23 @@ address { font-style: normal; }
 /* ============================================
    MOBILE OVERFLOW SAFETY NET
    ============================================ */
-@media (max-width: 768px) {
-  html, body {
-    overflow-x: clip;
-    overscroll-behavior-x: none;
+@media (max-width: 992px) {
+  html {
+    overflow-x: hidden !important;
+    max-width: 100vw !important;
+  }
+  body {
+    overflow-x: hidden !important;
+    max-width: 100vw !important;
+    position: relative;
   }
   .page-wrap {
-    overflow-x: clip;
-    max-width: 100%;
+    overflow-x: hidden;
+    max-width: 100vw;
   }
   /* Prevent service card hover from expanding beyond viewport */
   .service-card:hover .service-card__hover {
     width: 100%;
-  }
-  /* Clip any absolute overflow from sections */
-  section {
-    overflow-x: clip;
   }
 }
 
