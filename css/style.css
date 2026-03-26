@@ -348,17 +348,23 @@ address { font-style: normal; }
 
 @media (max-width: 768px) {
   .header {
-    top: 8px;
+    top: 12px;
     width: calc(100% - 32px);
-    padding: 10px 20px;
+    padding: 12px 16px;
     border-radius: 12px;
   }
   .header--scrolled {
-    padding: 10px 20px;
+    padding: 12px 16px;
   }
+  .header__logo img { height: clamp(12px, 3.5vw, 18px); }
   .header__nav { display: none; }
   .btn-glass-cta--nav { display: none; }
-  .hamburger { display: flex; }
+  .hamburger {
+    display: flex;
+    padding: 10px;
+    margin: -10px -6px -10px 0;
+  }
+  .hamburger span { width: 22px; }
 }
 
 /* MOBILE MENU */
@@ -1815,40 +1821,101 @@ address { font-style: normal; }
   .client-logo:nth-child(4n) .client-logo__text { left: auto; right: 105%; width: calc(90%); text-align: center; }
 }
 
-/* Small tablet — 3 columns */
+/* Small tablet — 3 columns, rounded rectangle cards with expanding bubbles */
 @media (max-width: 768px) {
-  .clients__grid { grid-template-columns: repeat(3, 1fr); }
-  .client-logo { max-width: 220px; }
-  .client-logo:hover::after { width: 200%; }
-  .client-logo__text { font-size: clamp(8px, 2vw, 11px); left: 105%; width: calc(90%); }
-  .client-logo::before { left: 100%; }
+  .clients__grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    row-gap: 0;
+  }
+
+  /* Rounded rectangle card style */
+  .client-logo {
+    max-width: none;
+    aspect-ratio: auto;
+    border-radius: 20px;
+    padding: clamp(1.25rem, 3vw, 1.75rem);
+    min-height: clamp(90px, 18vw, 140px);
+    background: rgba(255,255,255,0.45);
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+  .client-logo img {
+    max-width: 65%;
+    max-height: 55%;
+    filter: grayscale(100%) brightness(0.4);
+    opacity: 0.8;
+    mix-blend-mode: multiply;
+  }
+  .client-logo:hover img {
+    filter: grayscale(0%);
+    opacity: 1;
+    mix-blend-mode: normal;
+  }
+
+  /* Expanding bubble — rounded rectangle, not circle */
+  .client-logo::after {
+    border-radius: 20px;
+    background: rgba(240,240,240,0.95);
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+  }
+  .client-logo:hover::after { width: 210%; }
+
+  /* Teal divider line */
+  .client-logo::before { left: 100%; top: 15%; bottom: 15%; }
+
+  /* Text */
+  .client-logo__text {
+    font-size: clamp(9px, 2vw, 12px);
+    left: 108%;
+    width: calc(90%);
+  }
 
   /* Reset 4-per-row */
   .client-logo:nth-child(4n)::after { left: 0; right: auto; }
   .client-logo:nth-child(4n)::before { left: 100%; right: auto; transform: translateX(-50%); }
-  .client-logo:nth-child(4n) .client-logo__text { left: 105%; right: auto; width: calc(90%); text-align: center; }
+  .client-logo:nth-child(4n) .client-logo__text { left: 108%; right: auto; width: calc(90%); text-align: center; }
 
   /* 3-per-row: last expands left */
   .client-logo:nth-child(3n)::after { left: auto; right: 0; }
   .client-logo:nth-child(3n)::before { left: auto; right: 100%; transform: translateX(50%); }
-  .client-logo:nth-child(3n) .client-logo__text { left: auto; right: 105%; width: calc(90%); text-align: center; }
+  .client-logo:nth-child(3n) .client-logo__text { left: auto; right: 108%; width: calc(90%); text-align: center; }
+
+  /* Row separators via border */
+  .client-logo {
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    border-radius: 0;
+  }
+  /* Round top-left corners of first row */
+  .client-logo:nth-child(1) { border-top-left-radius: 20px; }
+  .client-logo:nth-child(3) { border-top-right-radius: 20px; }
+  /* Round bottom corners of last row */
+  .client-logo:nth-last-child(1) { border-bottom-right-radius: 20px; }
+  .client-logo:nth-last-child(-n+3):nth-child(3n+1) { border-bottom-left-radius: 20px; }
+  /* Right borders for columns 1 and 2 */
+  .client-logo:nth-child(3n+1),
+  .client-logo:nth-child(3n+2) {
+    border-right: 1px solid rgba(0,0,0,0.08);
+  }
+  /* Expanded bubble keeps rounded shape */
+  .client-logo::after { border-radius: 20px !important; }
 }
 
-/* Mobile — no expansion, bigger logos */
+/* Mobile phones — 3 cols, disable expanding bubbles to prevent overflow */
 @media (max-width: 600px) {
-  .clients__grid { grid-template-columns: repeat(3, 1fr); gap: 0.75rem; }
-  .client-logo { max-width: none; padding: 10px; }
-  .client-logo img { max-width: 70%; max-height: 50%; }
-  .client-logo::after { display: none; }
+  .clients__grid { grid-template-columns: repeat(3, 1fr); }
+  .client-logo { min-height: clamp(80px, 22vw, 120px); padding: clamp(1rem, 2.5vw, 1.5rem); }
+  .client-logo img { max-width: 70%; max-height: 55%; }
+  .client-logo:hover::after { width: 100%; }
   .client-logo::before { display: none; }
-  .client-logo__text { display: none !important; }
-  .client-logo:hover { z-index: 1; }
+  .client-logo__text { display: none; }
 }
 
-/* Small mobile */
+/* Small mobile — 3 cols tighter */
 @media (max-width: 400px) {
-  .clients__grid { grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
-  .client-logo img { max-width: 75%; max-height: 55%; }
+  .client-logo { min-height: clamp(70px, 22vw, 100px); padding: 0.75rem; }
+  .client-logo img { max-width: 75%; max-height: 60%; }
+  .client-logo__text { font-size: clamp(7px, 2vw, 10px); }
 }
 
 /* ============================================
@@ -2182,6 +2249,7 @@ address { font-style: normal; }
   .specialising {
     min-height: auto;
     padding: clamp(4rem, 10vw, 6rem) 0;
+    overflow-x: clip;
   }
 
   /* Stats section */
@@ -2349,6 +2417,142 @@ address { font-style: normal; }
     padding: 12px 28px;
     font-size: 13px;
   }
+}
+
+/* ============================================
+   MOBILE OVERFLOW SAFETY NET
+   ============================================ */
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: clip;
+    overscroll-behavior-x: none;
+  }
+  .page-wrap {
+    overflow-x: clip;
+    max-width: 100%;
+  }
+  /* Prevent service card hover from expanding beyond viewport */
+  .service-card:hover .service-card__hover {
+    width: 100%;
+  }
+  /* Clip any absolute overflow from sections */
+  section {
+    overflow-x: clip;
+  }
+}
+
+/* ============================================
+   EXTRA SMALL SCREENS (320–375px)
+   ============================================ */
+@media (max-width: 375px) {
+  .container { padding: 0 12px; }
+
+  /* Hero */
+  .hero { min-height: 80vh; }
+  .hero__heading { font-size: clamp(16px, 5vw, 24px); }
+  .hero__content { padding: 1.5rem 12px; }
+
+  /* Specialising */
+  .specialising__badge {
+    width: 80px; height: 80px;
+  }
+  .specialising__text h2 { font-size: clamp(16px, 5vw, 28px); }
+  .specialising__text p { font-size: clamp(12px, 3.2vw, 16px); }
+
+  /* Bridge orb */
+  .bridge-orb {
+    width: 120px; height: 120px;
+  }
+  .bridge-orb__text { font-size: 9px; }
+
+  /* Stats */
+  .stats__big-text { font-size: clamp(24px, 8vw, 40px); }
+  .stats__accent-text { font-size: clamp(13px, 3.5vw, 18px); }
+  .stats__body-text { font-size: clamp(12px, 3vw, 15px); }
+
+  /* Services */
+  .services__label { font-size: clamp(24px, 7vw, 36px); }
+  .services__heading { font-size: clamp(13px, 3.5vw, 18px); }
+  .service-card__hover { padding: 1rem 12px; }
+  .service-card__number { font-size: clamp(36px, 12vw, 56px); }
+  .service-card h3 { font-size: clamp(12px, 3.2vw, 16px); }
+  .service-card__lists li { font-size: clamp(11px, 2.8vw, 14px); }
+
+  /* Voicebank */
+  .voicebank__card { padding: 1.25rem 12px; border-radius: 14px; }
+  .voicebank h2 { font-size: clamp(18px, 5vw, 28px); }
+  .voicebank__sub { font-size: clamp(12px, 3.2vw, 16px); }
+
+  /* Workflow */
+  .workflow__heading { font-size: clamp(24px, 7vw, 36px); }
+  .workflow__sub { font-size: clamp(12px, 3.2vw, 18px); }
+  .workflow__grid { gap: 0.4rem; }
+  .workflow__card {
+    min-height: clamp(120px, 35vw, 170px);
+    padding: 0.75rem;
+    border-radius: 12px;
+  }
+  .workflow__card h3 { font-size: clamp(14px, 4vw, 22px); }
+  .workflow__card p { font-size: clamp(8px, 2.5vw, 12px); }
+  .workflow__ghost { font-size: clamp(60px, 22vw, 110px); }
+
+  /* Projects */
+  .projects__label { font-size: clamp(24px, 7vw, 36px); }
+  .projects__heading { font-size: clamp(13px, 3.5vw, 18px); }
+  .projects__item time { font-size: clamp(12px, 3.2vw, 16px); }
+  .projects__item p { font-size: clamp(12px, 3vw, 15px); }
+
+  /* Team */
+  .team__heading { font-size: clamp(24px, 7vw, 36px); }
+  .team__sub { font-size: clamp(12px, 3.2vw, 18px); }
+  .team__grid { grid-template-columns: repeat(3, 1fr); }
+  .team-details { padding: 4px 6px; bottom: 4px; left: 4px; right: 4px; }
+  .team-details h5 { font-size: 9px; }
+
+  /* Clients */
+  .clients__heading { font-size: clamp(24px, 7vw, 36px); }
+  .clients__sub { font-size: clamp(12px, 3.2vw, 18px); }
+
+  /* Languages */
+  .languages__heading { font-size: clamp(24px, 7vw, 36px); }
+  .languages__sub { font-size: clamp(12px, 3.2vw, 18px); }
+  .list-column ul {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(45, auto);
+  }
+  .list-column li { font-size: clamp(9px, 2.5vw, 13px); line-height: 1.8; }
+
+  /* Map */
+  .map-section [data-us-project] { height: 280px !important; }
+
+  /* Footer */
+  .footer__title { font-size: clamp(24px, 7vw, 36px); }
+  .office-card { border-radius: 14px; }
+  .office-card__info { padding: 0.75rem; }
+  .office-card__info h5 { font-size: clamp(14px, 4vw, 20px); }
+  .office-card__info address { font-size: clamp(11px, 3vw, 14px); }
+  .office-card__email { font-size: clamp(11px, 3vw, 14px); }
+  .footer__form { padding: 0.75rem; border-radius: 14px; }
+  .footer__form h5 { font-size: clamp(14px, 4vw, 20px); }
+
+  /* Buttons */
+  .btn-glass-cta { padding: 10px 24px; font-size: 12px; }
+}
+
+/* ============================================
+   LANDSCAPE PHONES — prevent sections from being too tall
+   ============================================ */
+@media (max-height: 500px) and (orientation: landscape) {
+  .hero { min-height: 100vh; }
+  .hero__heading { font-size: clamp(16px, 3.5vw, 32px); }
+  .specialising { min-height: auto; padding: 3rem 0; }
+  .stats { min-height: auto; }
+  .services, .voicebank, .workflow, .projects, .clients { min-height: auto; }
+  .promo { min-height: 60vh; }
+  .map-section [data-us-project] { height: 300px !important; }
+
+  /* Stats slides don't need full height in landscape */
+  .stats__slides-wrap { min-height: 200px; }
 }
 
 /* ============================================
