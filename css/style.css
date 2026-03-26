@@ -1831,46 +1831,47 @@ address { font-style: normal; }
     row-gap: 0;
   }
 
-  /* Square card style */
+  /* Compact square card style */
   .client-logo {
     max-width: none;
     aspect-ratio: 1;
     border-radius: 20px;
-    padding: clamp(1rem, 2.5vw, 1.5rem);
+    padding: clamp(0.75rem, 2vw, 1.25rem);
     min-height: auto;
     background: rgba(255,255,255,0.45);
     border: 1px solid rgba(0,0,0,0.06);
   }
   .client-logo img {
-    max-width: 65%;
-    max-height: 55%;
-    filter: grayscale(100%) brightness(0.4);
-    opacity: 0.8;
-    mix-blend-mode: multiply;
+    max-width: 60%;
+    max-height: 45%;
+    filter: none;
+    opacity: 1;
+    mix-blend-mode: normal;
   }
   .client-logo:hover img {
-    filter: grayscale(0%);
+    filter: none;
     opacity: 1;
     mix-blend-mode: normal;
   }
 
-  /* Expanding bubble — rounded rectangle, not circle */
+  /* Expanding bubble — opaque rounded rectangle */
   .client-logo::after {
     border-radius: 20px;
-    background: rgba(240,240,240,0.95);
+    background: #E8E6E6;
     border: 1px solid rgba(0,0,0,0.08);
     box-shadow: 0 2px 12px rgba(0,0,0,0.1);
   }
-  .client-logo:hover::after { width: 210%; }
+  .client-logo:hover::after { width: 180%; }
 
   /* Teal divider line */
   .client-logo::before { left: 100%; top: 15%; bottom: 15%; }
 
-  /* Text */
+  /* Text — black, readable */
   .client-logo__text {
     font-size: clamp(9px, 2vw, 12px);
     left: 108%;
-    width: calc(90%);
+    width: calc(70%);
+    color: #1a1a1a;
   }
 
   /* Reset 4-per-row */
@@ -1903,11 +1904,11 @@ address { font-style: normal; }
   .client-logo::after { border-radius: 20px !important; }
 }
 
-/* Mobile phones — 3 cols, square boxes */
+/* Mobile phones — 3 cols, compact square boxes */
 @media (max-width: 600px) {
   .clients__grid { grid-template-columns: repeat(3, 1fr); }
-  .client-logo { aspect-ratio: 1; min-height: auto; padding: clamp(0.75rem, 2vw, 1.25rem); }
-  .client-logo img { max-width: 70%; max-height: 55%; }
+  .client-logo { aspect-ratio: 1; min-height: auto; padding: clamp(0.5rem, 1.5vw, 1rem); }
+  .client-logo img { max-width: 65%; max-height: 50%; }
   .client-logo:hover:not(.active)::after { width: 100%; }
   .client-logo::before { display: none; }
   .client-logo__text { display: none; }
@@ -2464,7 +2465,8 @@ address { font-style: normal; }
     z-index: 10;
   }
   .client-logo.active::after {
-    width: 210%;
+    width: 180%;
+    background: #E8E6E6;
   }
   .client-logo.active::before {
     opacity: 1;
