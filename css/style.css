@@ -34,7 +34,7 @@
 html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
-  overflow-x: clip;
+  overflow-x: hidden;
   overscroll-behavior-x: none;
 }
 body {
@@ -43,13 +43,15 @@ body {
   line-height: 1.6;
   color: var(--black);
   background: var(--bg-page);
-  overflow-x: clip;
+  overflow-x: hidden;
   overscroll-behavior-x: none;
   touch-action: pan-y pinch-zoom;
+  max-width: 100vw;
 }
-/* Page wrapper — hidden to guarantee no horizontal scroll */
+/* Page wrapper */
 .page-wrap {
   width: 100%;
+  max-width: 100vw;
   overflow-x: hidden;
 }
 
