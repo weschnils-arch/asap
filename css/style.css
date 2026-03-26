@@ -2423,21 +2423,30 @@ address { font-style: normal; }
    MOBILE OVERFLOW SAFETY NET
    ============================================ */
 @media (max-width: 992px) {
-  html {
-    overflow-x: hidden !important;
-    max-width: 100vw !important;
-  }
-  body {
-    overflow-x: hidden !important;
-    max-width: 100vw !important;
-    position: relative;
-  }
+  /* Only clip on page-wrap — NOT html/body, to preserve position:fixed header */
   .page-wrap {
-    overflow-x: hidden;
-    max-width: 100vw;
+    overflow-x: clip;
+    max-width: 100%;
+  }
+  /* Sections that lack overflow control */
+  .specialising,
+  .stats,
+  .voicebank,
+  .team,
+  .projects,
+  .footer {
+    overflow-x: clip;
   }
   /* Prevent service card hover from expanding beyond viewport */
   .service-card:hover .service-card__hover {
+    width: 100%;
+  }
+  /* Disable client logo pseudo-element expansion */
+  .client-logo::before,
+  .client-logo__text {
+    display: none;
+  }
+  .client-logo:hover::after {
     width: 100%;
   }
 }
