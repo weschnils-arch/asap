@@ -2247,10 +2247,11 @@ address { font-style: normal; }
   }
   .hero__dots { display: none; }
 
-  /* Specialising — already handled above, reinforce */
+  /* Specialising — extra bottom padding so CTA clears the bridge orb */
   .specialising {
     min-height: auto;
     padding: clamp(4rem, 10vw, 6rem) 0;
+    padding-bottom: clamp(10rem, 28vw, 16rem);
     overflow-x: clip;
   }
 
