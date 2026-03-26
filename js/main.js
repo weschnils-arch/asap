@@ -128,6 +128,26 @@
       { opacity: 1, scale: 1, duration: 0.35, stagger: 0.025, ease: 'power2.out',
         scrollTrigger: { trigger: '.clients__grid', start: 'top 82%', toggleActions: 'play none none none' } }
     );
+
+    /* Tap to expand on mobile (toggle .active class) */
+    cLogos.forEach(function (logo) {
+      logo.addEventListener('click', function (e) {
+        if (window.innerWidth > 992) return; /* desktop uses hover */
+        e.preventDefault();
+        var wasActive = this.classList.contains('active');
+        /* Close all others first */
+        cLogos.forEach(function (l) { l.classList.remove('active'); });
+        /* Toggle clicked one */
+        if (!wasActive) this.classList.add('active');
+      });
+    });
+    /* Close on tap outside */
+    document.addEventListener('click', function (e) {
+      if (window.innerWidth > 992) return;
+      if (!e.target.closest('.client-logo')) {
+        cLogos.forEach(function (l) { l.classList.remove('active'); });
+      }
+    });
   }
 
   /* --- TEAM MEMBERS --- */

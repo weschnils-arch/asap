@@ -1831,13 +1831,13 @@ address { font-style: normal; }
     row-gap: 0;
   }
 
-  /* Rounded rectangle card style */
+  /* Square card style */
   .client-logo {
     max-width: none;
-    aspect-ratio: auto;
+    aspect-ratio: 1;
     border-radius: 20px;
-    padding: clamp(1.25rem, 3vw, 1.75rem);
-    min-height: clamp(90px, 18vw, 140px);
+    padding: clamp(1rem, 2.5vw, 1.5rem);
+    min-height: auto;
     background: rgba(255,255,255,0.45);
     border: 1px solid rgba(0,0,0,0.06);
   }
@@ -1903,12 +1903,12 @@ address { font-style: normal; }
   .client-logo::after { border-radius: 20px !important; }
 }
 
-/* Mobile phones — 3 cols, disable expanding bubbles to prevent overflow */
+/* Mobile phones — 3 cols, square boxes */
 @media (max-width: 600px) {
   .clients__grid { grid-template-columns: repeat(3, 1fr); }
-  .client-logo { min-height: clamp(80px, 22vw, 120px); padding: clamp(1rem, 2.5vw, 1.5rem); }
+  .client-logo { aspect-ratio: 1; min-height: auto; padding: clamp(0.75rem, 2vw, 1.25rem); }
   .client-logo img { max-width: 70%; max-height: 55%; }
-  .client-logo:hover::after { width: 100%; }
+  .client-logo:hover:not(.active)::after { width: 100%; }
   .client-logo::before { display: none; }
   .client-logo__text { display: none; }
 }
@@ -2299,7 +2299,10 @@ address { font-style: normal; }
     min-height: auto;
   }
   .service-card__hover {
-    padding: 1.25rem 16px;
+    padding: 1.5rem clamp(20px, 5vw, 32px);
+  }
+  .service-card__lists {
+    padding: 0.5rem 0.5rem 0;
   }
   .service-card__number {
     font-size: clamp(40px, 14vw, 70px);
@@ -2444,12 +2447,32 @@ address { font-style: normal; }
   .service-card:hover .service-card__hover {
     width: 100%;
   }
-  /* Disable client logo pseudo-element expansion */
-  .client-logo::before,
-  .client-logo__text {
-    display: none;
-  }
+  /* Client logo expansion via tap (.active class) instead of hover on mobile */
   .client-logo:hover::after {
+    width: 100%; /* disable hover expansion */
+  }
+  .client-logo.active {
+    z-index: 10;
+  }
+  .client-logo.active::after {
+    width: 210%;
+  }
+  .client-logo.active::before {
+    opacity: 1;
+  }
+  .client-logo.active .client-logo__text {
+    opacity: 1;
+  }
+  .client-logo.active img {
+    opacity: 1;
+    filter: grayscale(0%);
+    mix-blend-mode: normal;
+  }
+  /* Clip expansion overflow */
+  .clients {
+    overflow-x: clip;
+  }
+  .client-logo:not(.active):hover::after {
     width: 100%;
   }
 }
