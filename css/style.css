@@ -47,10 +47,10 @@ body {
   overscroll-behavior-x: none;
   touch-action: pan-y pinch-zoom;
 }
-/* Page wrapper — clip prevents scroll container creation (unlike hidden) */
+/* Page wrapper — hidden to guarantee no horizontal scroll */
 .page-wrap {
   width: 100%;
-  overflow-x: clip;
+  overflow-x: hidden;
 }
 
 img { display: block; max-width: 100%; height: auto; }
@@ -2252,10 +2252,11 @@ address { font-style: normal; }
     overflow-x: clip;
   }
 
-  /* Stats section */
+  /* Stats section — extra top padding to clear bridge orb overlap */
   .stats {
     min-height: auto;
     padding: 0;
+    padding-top: clamp(5rem, 14vw, 8rem);
   }
   .stats__big-text {
     font-size: clamp(28px, 9vw, 50px);
